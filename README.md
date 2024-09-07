@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrew0076
-- 👀 I’m interested in gamr development and game designing
+- 👀 I’m interested in game development and game designing
 - 🌱 I’m currently learning c and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me armaanbara007@gmail.com
